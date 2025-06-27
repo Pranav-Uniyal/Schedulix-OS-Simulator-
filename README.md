@@ -55,7 +55,6 @@ pip install matplotlib numpy
    ```bash
    python main.py
    ```
-
 ---
 
 ## 📸 Screenshots
