@@ -2,6 +2,10 @@
 
 Schedulix is a visually rich, interactive simulator for understanding and analyzing CPU scheduling algorithms. Built with Python and Tkinter, this simulator supports **FCFS**, **SJF (Preemptive & Non-preemptive)**, **Priority**, and **Round Robin** scheduling. It includes **real-time Gantt chart animations**, **detailed performance metrics**, and **visual comparisons** of all algorithms.
 
+
+
+
+
 ---
 
 ## 🚀 Features
