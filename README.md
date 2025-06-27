@@ -85,6 +85,22 @@ Schedulix is ideal for:
 
 ---
 
+## 🌐 Web Version (In Development)
+
+We're currently working on **Schedulix Web 3D** — a next-generation, browser-based version of the simulator that brings **CPU scheduling to life in 3D**.
+
+### 🔮 What to Expect
+
+- 🧊 **3D Visualization** of process scheduling using **Three.js** and **React Three Fiber**
+- 🌀 **Realistic physics simulation** powered by **Rapier Physics Engine**
+- 🌍 **Cross-platform accessibility** — run entirely in the browser
+- ⚙️ Built with **React**, **Three.js**, **Zustand**, **GSAP**, and other modern frontend tools
+- 🎓 Designed for an engaging, interactive learning experience for OS concepts
+
+> 🚧 *Currently under development — this web version will elevate traditional CPU scheduling simulators into a dynamic, gamified learning platform.*
+
+📌 **Live Demo & Repository Coming Soon!**
+
 ## 👨‍💻 Author
 
 Developed by **Pranav Uniyal**, **Srijan Petwal**, **Parthvi Sah**, **Soni Pathak**  
